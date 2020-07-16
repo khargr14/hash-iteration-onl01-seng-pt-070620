@@ -16,8 +16,6 @@ def age_appropriate_birthday (birthday_kids)
   end
 end
 
-describe "#select_winner" do
-  it "returns the name of the passenger who stays in suite a and whose name begins with the letter 'A'" do 
 
     passengers = {
       suite_a: "Amanda Presley", 
